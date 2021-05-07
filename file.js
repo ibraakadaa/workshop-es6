@@ -16,7 +16,7 @@ for(j=0;j<num;j++)
 }
 //a[i]=b
 // od=b[j]
-od=a[i][j]
+od=a[i][j]+2
  
 }
 for(x1=0 ;x1<num ;x1++)
@@ -46,7 +46,7 @@ for(j=0;j<num;j++)
    od++}
 }
 a[i]=b
-od=b[j]
+od=b[j]+2
  
 }
 for(x1=0 ;x1<num ;x1++)
